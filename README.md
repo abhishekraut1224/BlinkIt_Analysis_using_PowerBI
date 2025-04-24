@@ -1,4 +1,4 @@
-### BlinkIt_Analysis
+# BlinkIt Sales Analysis
  
 ## Problem Statement
 At Blinkit, understanding the sales performance, customer satisfaction, and inventory distribution is crucial for making data-driven decisions and improving operational efficiency. The company needed a comprehensive analytical dashboard to visualize key performance indicators (KPIs) and highlight business opportunities.
@@ -29,6 +29,9 @@ To achieve this, I followed a structured approach:
  4. A funnel map for geographic distribution.
  5. A matrix card to consolidate key metrics by outlet type.
 
+ 6. ![image](https://github.com/user-attachments/assets/54e96b90-084e-4335-be61-84ae2df0a33e)
+
+
 ## Result 
 The final dashboard provided a clear and interactive view of Blinkit’s performance, enabling business users to:
 
@@ -39,5 +42,5 @@ The final dashboard provided a clear and interactive view of Blinkit’s perform
  
 #### Attachments 
 🔹 Project Report (PDF): Detailed explanation of the project and visualizations for better understanding.
-🔹 Dataset: Use this dataset to create your own analysis or refer to it for project insights.
+🔹 Dataset: Use this dataset to create your analysis or refer to it for project insights.
 🔹 Power BI File (PBI): Explore the actual visualizations and analysis in Power BI.
