@@ -6,13 +6,10 @@ At Blinkit, understanding the sales performance, customer satisfaction, and inve
 ## Task 
 My task was to build an interactive Power BI dashboard to:
 
-Track total and average sales.
-
-Analyze customer ratings.
-
-Understand item type and fat content performance.
-
-Explore the influence of outlet size, type, and location on sales.
+ 1. Track total and average sales.
+ 2. Analyze customer ratings.
+ 3. Understand item type and fat content performance.
+ 4. Explore the influence of outlet size, type, and location on sales.
 
 This involved handling raw data, transforming it, and delivering insightful visualizations for business stakeholders.
 
