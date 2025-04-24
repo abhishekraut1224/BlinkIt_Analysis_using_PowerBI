@@ -29,7 +29,8 @@ To achieve this, I followed a structured approach:
  4. A funnel map for geographic distribution.
  5. A matrix card to consolidate key metrics by outlet type.
 
- 6. ![image](https://github.com/user-attachments/assets/54e96b90-084e-4335-be61-84ae2df0a33e)
+ 6. ![image](https://github.com/user-attachments/assets/8de7af05-8e15-40c7-8b6f-764d1cacfa3c)
+
 
 
 ## Result 
