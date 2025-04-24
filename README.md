@@ -41,6 +41,6 @@ The final dashboard provided a clear and interactive view of Blinkit’s perform
  4. It helped in data-driven decision making, enhanced reporting efficiency, and offered actionable insights for marketing and inventory strategies.
  
 #### Attachments 
-🔹 Project Report (PDF): Detailed explanation of the project and visualizations for better understanding.
-🔹 Dataset: Use this dataset to create your analysis or refer to it for project insights.
-🔹 Power BI File (PBI): Explore the actual visualizations and analysis in Power BI.
+ 1. Project Report (PDF): Detailed explanation of the project and visualizations for better understanding.
+ 2. Dataset: Use this dataset to create your analysis or refer to it for project insights.
+ 3. Power BI File (PBI): Explore the actual visualizations and analysis in Power BI.
